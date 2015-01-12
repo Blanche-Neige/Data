@@ -1,0 +1,12 @@
+total 40
+-rwxrwxr-x 1 administrateur administrateur 8876 nov.  24 12:34 a.out
+-rw-rw-r-- 1 administrateur administrateur  425 nov.  24 10:44 ex1_1.c
+-rw-rw-r-- 1 administrateur administrateur  249 nov.  24 10:42 ex1_1.c~
+-rw-rw-r-- 1 administrateur administrateur  477 nov.  24 10:51 ex1_2.c
+-rw-rw-r-- 1 administrateur administrateur  476 nov.  24 10:51 ex1_2.c~
+-rw-rw-r-- 1 administrateur administrateur 1730 nov.  24 12:34 ex1_3.c
+-rw-rw-r-- 1 administrateur administrateur 1773 nov.  24 12:33 ex1_3.c~
+-rwxrwxr-x 1 administrateur administrateur    0 nov.  24 12:34 fichier1.txt
+-rwxrwxr-x 1 administrateur administrateur    0 nov.  24 12:34 fichier2.txt
+-rwxrwxr-x 1 administrateur administrateur    0 nov.  24 12:34 fichier3.txt
+-rwxrwxr-x 1 administrateur administrateur  583 nov.  24 12:18 sortie.txt

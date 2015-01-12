@@ -1,0 +1,16 @@
+logrotate state -- version 2
+"/home/user/.cache/upstart/unity7.log" 2015-1-12-5:54:56
+"/home/user/.cache/upstart/gnome-session-Unity.log" 2015-1-12-6:10:37
+"/home/user/.cache/upstart/indicator-application.log" 2015-1-12-6:10:37
+"/home/user/.cache/upstart/indicator-sound.log" 2015-1-12-5:54:56
+"/home/user/.cache/upstart/window-stack-bridge.log" 2015-1-12-5:54:56
+"/home/user/.cache/upstart/indicator-printers.log" 2015-1-12-6:10:37
+"/home/user/.cache/upstart/dbus.log" 2015-1-12-6:10:37
+"/home/user/.cache/upstart/indicator-session.log" 2015-1-12-6:10:37
+"/home/user/.cache/upstart/im-config.log" 2015-1-12-5:54:56
+"/home/user/.cache/upstart/indicator-bluetooth.log" 2015-1-12-5:54:56
+"/home/user/.cache/upstart/update-notifier-release.log" 2015-1-12-5:54:56
+"/home/user/.cache/upstart/unity-panel-service.log" 2015-1-12-5:54:56
+"/home/user/.cache/upstart/unity-settings-daemon.log" 2015-1-12-6:10:37
+"/home/user/.cache/upstart/indicator-power.log" 2015-1-12-5:54:56
+"/home/user/.cache/upstart/at-spi2-registryd.log" 2015-1-12-6:10:37

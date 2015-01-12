@@ -1,0 +1,17 @@
+int main(){
+
+int i,j,k;
+i = fork();
+j = fork();
+k = fork();
+
+if ( (i == 0) && (j == 0))
+{
+	k = fork();
+}
+printf("test\n");
+exit(0);
+
+
+
+}

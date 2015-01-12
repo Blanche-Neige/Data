@@ -1,0 +1,12 @@
+Nautilus-Share-Message: Called "net usershare info" but it failed: 'net usershare' returned error 255: net usershare: cannot open usershare directory /var/lib/samba/usershares. Error No such file or directory
+Please ask your system administrator to enable user sharing.
+
+
+** (nautilus:2295): WARNING **: bookmark uri is file:///usr/bin, but expected file:///usr
+
+** (nautilus:2295): WARNING **: bookmark uri is file:///home, but expected file:///home/user
+
+** (nautilus:2295): WARNING **: bookmark uri is file:///home, but expected file:///home/user
+Nautilus-Share-Message: Called "net usershare info" but it failed: 'net usershare' returned error 255: net usershare: cannot open usershare directory /var/lib/samba/usershares. Error No such file or directory
+Please ask your system administrator to enable user sharing.
+

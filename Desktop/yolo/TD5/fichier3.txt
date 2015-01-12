@@ -1,0 +1,1 @@
+226 /home/administrateur/Bureau/TD5/fichier2.txt

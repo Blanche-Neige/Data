@@ -1,0 +1,3 @@
+-rwxrwxr-x 1 administrateur administrateur    0 nov.  24 12:34 fichier2.txt
+-rwxrwxr-x 1 administrateur administrateur    0 nov.  24 12:34 fichier3.txt
+-rwxrwxr-x 1 administrateur administrateur  583 nov.  24 12:18 sortie.txt

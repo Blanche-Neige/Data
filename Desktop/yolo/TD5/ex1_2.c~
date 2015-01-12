@@ -1,0 +1,39 @@
+#include <stdlib.h>
+#include <stdio.h>
+#include <unistd.h>
+#include <fcntl.h>
+
+/*
+RENAULT Kévin
+GUILLOMON Nicolas
+*/
+
+int main(){
+	int val_fork;
+	int tube[2];
+	pipe(tube);
+	char buffer[2048]
+
+	if((val_fork = fork()) == 0){
+		close(1);
+		dup(tube[1]);
+		close(tube[1]);
+		close(tube[0]);
+		
+	
+		execlp("ls","ls","-l",NULL);
+		
+	}
+	else{
+		close(0);
+		dup(tube[0]);
+		close(tube[0]);
+		close(tube[1]);
+		wait();
+		read(0,buffer,2048);
+		printf("%s",buffer);
+	}	
+
+	return 0;
+}
+
